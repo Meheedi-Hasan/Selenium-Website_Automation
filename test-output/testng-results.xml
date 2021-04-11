@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-11T06:32:14Z" name="TestAll" finished-at="2021-04-11T06:32:21Z" duration-ms="7342">
+    <groups>
+    </groups>
+    <test started-at="2021-04-11T06:32:14Z" name="TestNG Annotation" finished-at="2021-04-11T06:32:21Z" duration-ms="7342">
+      <class name="com.selenium.test.actualText_automation.testScript">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.selenium.test.actualText_automation.testScript@48f2bd5b]" started-at="2021-04-11T06:32:12Z" name="setDriver" finished-at="2021-04-11T06:32:14Z" duration-ms="2058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="openDriver()[pri:0, instance:com.selenium.test.actualText_automation.testScript@48f2bd5b]" started-at="2021-04-11T06:32:14Z" name="openDriver" finished-at="2021-04-11T06:32:18Z" duration-ms="4061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriver -->
+        <test-method signature="test()[pri:0, instance:com.selenium.test.actualText_automation.testScript@48f2bd5b]" started-at="2021-04-11T06:32:18Z" name="test" finished-at="2021-04-11T06:32:21Z" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.selenium.test.actualText_automation.testScript@48f2bd5b]" started-at="2021-04-11T06:32:21Z" name="close" finished-at="2021-04-11T06:32:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.selenium.test.actualText_automation.testScript -->
+    </test> <!-- TestNG Annotation -->
+  </suite> <!-- TestAll -->
+</testng-results>
